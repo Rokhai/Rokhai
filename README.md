@@ -21,11 +21,11 @@
  <img width="48" height="48" align="left" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
  <img width="48" height="48" align="left" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 > I have an adept knowledge in different programming language, they're part of the curriculum..
 
-<br/><br/><br/>
+<br/><br/>
 
 ### Tools
  <img width="48" height="48" align="left" src="https://img.icons8.com/color/48/git.png" alt="git"/>
